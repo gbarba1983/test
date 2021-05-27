@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# Readme Rama develop
-=======
-# Readme Rama Stage
->>>>>>> stage
+# Readme Rama develop, vamos a probar el pull request
